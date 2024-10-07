@@ -80,6 +80,7 @@ nav ul {
 .nav-icon-container {
     display: flex;
     /* Exibe os ícones em linha */
+    color: #0084ff;
     align-items: center;
     /* Alinha os ícones ao centro */
 }
